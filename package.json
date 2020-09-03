@@ -1,0 +1,11 @@
+{
+  "name": "objectbrowser",
+  "version": "1.0.0",
+  "description": "A little js tools to browse an object very easily with the path of the field",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Louis GRANTE",
+  "license": "ISC"
+}
